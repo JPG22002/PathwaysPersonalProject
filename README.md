@@ -25,8 +25,8 @@ The primary goal of this project is to demonstrate my ability to independently c
 #### Personal Initiative
 This project is a testament to my ability to take initiative and lead my learning journey. Without a formal group or direct guidance, I embraced the challenge to build a project that not only meets the prescribed criteria but also reflects my understanding and skills in software development.
 
+AWS Sample data:
 <img width="1043" alt="Screenshot 2024-01-22 at 1 18 04 AM" src="https://github.com/JPG22002/PathwaysPersonalProject/assets/117474744/d8ff7ded-a4e3-486e-84b3-2b3d8c716dde">
-
 
 <img width="1440" alt="Screenshot 2024-01-17 at 2 18 35 AM" src="https://github.com/JPG22002/PathwaysPersonalProject/assets/117474744/392be080-398b-44d6-acfe-70de7a283cda">
 <img width="1440" alt="Screenshot 2024-01-17 at 2 18 50 AM" src="https://github.com/JPG22002/PathwaysPersonalProject/assets/117474744/6ce275e7-d79f-4769-bb53-9ac43800e19b">
